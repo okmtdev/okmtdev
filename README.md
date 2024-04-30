@@ -7,3 +7,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=okmtdev&theme=transparent&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,ruby,perl,aws,docker,kubernetes,dart,gitlab,kali,linux,vim)](https://skillicons.dev)
