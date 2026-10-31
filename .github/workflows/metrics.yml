@@ -23,6 +23,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: okmtdev
+          repositories_batch: 25
           filename: github-metrics.svg
           output_action: commit
           committer_message: "chore: update github-metrics.svg [skip ci]"
