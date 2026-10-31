@@ -34,7 +34,7 @@ jobs:
           config_display: large
 
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_ignored: html, css, dockerfile
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
@@ -44,4 +44,5 @@ jobs:
 
           plugin_lines: yes
           plugin_lines_sections: base, repositories
+          plugin_lines_delay: 30
 
